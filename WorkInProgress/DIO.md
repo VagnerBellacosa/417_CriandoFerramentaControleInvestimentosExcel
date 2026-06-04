@@ -86,3 +86,5 @@ O projeto consiste na criação de uma ferramenta simples em Excel para simular 
 ###### Felipe Aguiar
 
 Tech Educator, DIO[**](https://web.dio.me/project/criando-uma-ferramenta-de-controle-de-investimentos-com-excel/learning/www.linkedin.com/in/felipeaguiar-exe) [**](https://github.com/felipeAguiarCode)
+
+https://web.dio.me/project/criando-uma-ferramenta-de-controle-de-investimentos-com-excel/learning/13947f2c-062f-4bb3-9c0a-688178c86f4d?back=/track/santander-excel-com-inteligencia-artificial-2-semestre&tab=undefined&moduleId=undefined
